@@ -1,0 +1,33 @@
+#radi{
+    margin: 100px 10%;
+    color: goldenrod;
+}
+.appearance{
+    background-color: black;
+}
+#imagesize{
+    height: 700px;
+    width: 100%;
+}
+div.col-4{
+    padding: 0px;
+}
+.container{text-align: center;
+    color: goldenrod;
+}
+.book{border: 1px solid;
+    border-radius: 10px;
+    color:blue;
+    background-color: white;
+    padding: 10px;
+}
+.book:hover{background-color:lightgreen;
+}
+#graph{color:blue;
+}
+#web{color: blue;
+}
+#log{color: blue;
+}
+#ban{color: blue;
+}

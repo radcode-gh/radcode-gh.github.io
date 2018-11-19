@@ -13,21 +13,10 @@ div.col-4{
     padding: 0px;
 }
 .container{text-align: center;
-    color: goldenrod;
+    color: gold
 }
-.book{border: 1px solid;
-    border-radius: 10px;
-    color:blue;
-    background-color: white;
+.zee{
+    height: 250px;
+    width: 100%;
     padding: 10px;
-}
-.book:hover{background-color:lightgreen;
-}
-#graph{color:blue;
-}
-#web{color: blue;
-}
-#log{color: blue;
-}
-#ban{color: blue;
 }
